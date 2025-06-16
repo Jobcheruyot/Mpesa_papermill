@@ -1,0 +1,5 @@
+streamlit
+papermill
+pandas
+openpyxl
+xlsxwriter
